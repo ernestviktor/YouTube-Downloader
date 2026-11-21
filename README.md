@@ -28,7 +28,7 @@ _Add a screenshot of the application here after taking one, for example:_
 
 - Windows 10 or Windows 11
 - Python 3.10+ recommended
-- FFmpeg (including `ffmpeg` and `ffprobe` available in `PATH`)
+- FFmpeg from https://www.gyan.dev/ffmpeg/builds/ (including `ffmpeg` and `ffprobe` available in `PATH`)
 - Internet connection while downloading and installing Python dependencies
 
 

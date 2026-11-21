@@ -98,7 +98,7 @@ ERNESTYT_SegmentDownloader/
 - Flask
 - yt-dlp
 - FFmpeg / FFprobe
-- HTML, CSS, JavaScript
+- HTML, CSS, Bat.
 
 ## License
 
@@ -107,4 +107,5 @@ Distributed under the MIT License. See `LICENSE` for details.
 
 ---
 
-**Made by Ernest · ERNESTYT**
+**Made by Ernest · ERNESTYT** -
+**SEMANGAT 45 BRO**
